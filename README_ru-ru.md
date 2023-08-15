@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#"><img width="360" height="360" src="https://media.discordapp.net/attachments/1033549666769449002/1107009612210765955/matches.png"></a>
-  <a href="#"><img width="650" height="100" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
+  <a href="#"><img width="650" height="100" src="https://share.creavite.co/v84do1gspYp1Esqj.gif"></a>
 </p>
 
 <p align="center">
@@ -34,56 +34,55 @@
 ---
 <div align="center">
   
-# 🔥 KOREPI FAQ 🔥
+# 🔥 FAQ по Korepi 🔥
 
 </div>
 
-## 1 - WHAT IS [KOREPI](https://github.com/Korepi/Korepi)?
+## 1 - Что такое [Korepi](https://github.com/Korepi/Korepi)?
 
-- [KOREPI](https://github.com/Korepi/Korepi) is a certain anime game free cheat that includes various memory modification features to enhance your gameplay experience.
+- [Korepi](https://github.com/Korepi/Korepi) - бесплатный чит для кое-какой популярной анимешной игры, если вы понимаете, о чём я. Множество полезных функций, эффективный обход античита, постоянные обновления, и, конечно же, совершенно бесплатно.
 
-## 2 - What is the difference between fans and sponsors?
+## 2 - В чём отличия версии Fans и Sponsor?
 
-- Fans are users who have permission to use the Micah bot.
-- Sponsors have access to additional communication channels and extra memory modification features (such as water walking).
+- Fans - те, кто прошли аутентификацию через [Discord-сервер](https://discord.gg/cottonbuds). В этой версии имеются такие функции, как <b>ESP</b>, <b>Окул/Сундук/JSON-телепорт</b>, и др.
+- Sponsor - те, кто задонатили разработчикам чита. В этой версии имеются такие функции, как <b>Ускорение полёта</b>, <b>Ходьба по воде</b>, <b>Всегда критовать</b>, и др. А также доступ к закрытым чатам с оперативной поддержкой по любым вопросам касаемо чита.
 
-## 3 - Where is [KOREPI](https://github.com/Korepi/Korepi)'s GitHub?
+## 3 - Какая версия чита мне нужна?
 
-- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) is a tutorial repository owned by the korepi organization.
+- Выбор стоит между P, F, и V версией, и вы должны выбрать то, что вас устраивает больше:
 
-## 4 - Where can I donate to you guys?
+   + P-версия: Публичная версия, которая обновляется только лишь раз в одно обновление игры, и больше никаких обновлений и баг-фиксов не получает. Не имеет ESP, разновидностей телепортов и роле-эксклюзивных функций.
+   + F-версия: Версия с онлайн-верификацией, созданная [Strigger7](https://github.com/Strigger7), где вы вводите цифровой ключ, выданный в [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). Самые стабильные версии, в которые периодически добавляются только важные функции и баг-фиксы.
+   + V-версия (например, v0.9.0): Версия с локальной верификацией [Micah](https://github.com/Micah123321), где вы входите через скачанный файл с ключом, выданный в [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). Экспериментальные версии, которые постоянно обновляются, с добавлением новых разных и полезных функций, и срочными баг-фиксами.
 
-- The donation address can be found at ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (in [Cotton Buds](https://discord.gg/cottonbuds) discord server).
+## 4 - Куда донатить для роли Sponsor?
 
-## 5 - How do I use when downloaded already?
+- Ссылки на донаты ⁠находятся по официальной ссылке в Discord-сервере Korepi (ссылки на Ko-Fi, Traktir, Adfian и Boosty): [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205)
+- Или же обратитесь в ЛС к butterbrodskiy в Discord'е, чтобы сделать прямой перевод на monobank (Украина).
 
-- Please refer to [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) for instructions.
+## 5 - После скачивания чита - что делать дальше?
 
-## 6 - How do I obtain or reset a key?
+- Перейдите в [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) за дальнейшими инструкциями.
 
-- To obtain an online verification key, enter `/getkey` in ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). To reset a key, enter `/resetkey` (this will reduce the key's validity by 1 day and may trigger a cooldown period).
+## 6 - Как на сервере пройти аутентификацию?
 
-## 7 - Why am I seeing garbled characters?
+- Чтобы пройти <b>онлайн-верификацию</b> и получить цифровой ключ для чита, напишите `/getkey` в ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). Чтобы сбросить ключ, напишите `/resetkey` (учтите: при постоянном сбросе ключа может сработать защита от ботов, и вам придётся ждать неделю для следующего сброса).
+- Чтобы пройти <b>локальную верификацию</b> и получить файл с зашифрованным ключом, напишите `/verify` в ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
 
-- Garbled characters may be caused by your computer system lacking Chinese fonts. To resolve this, you can download Chinese fonts online, such as Microsoft YaHei.
+## 7 - Почему в консоли чита я вижу кракозябры?
 
-## 8 - What is the difference between online verification and local verification?
+- Кракозябры возникают в консоли, если у вас на компьютере отсутствуют китайские шрифты. Скачайте китайские шрифты из интернета, например, Microsoft YaHei, и установите их.
 
-- Online verification refers to the method of accessing an online verification server for authentication.
-- For instructions on local verification, please refer to [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
+## 8 - В чём разница между онлайн-верификацией или локальной верификацией?
 
-## 9 - How should I choose the corresponding version?
-
-- When choosing the corresponding version, consider the following factors:
-
-   + P series: Public series with code updates only once and no further maintenance.
-   + F series: Online verification version managed by [Strigger7](https://github.com/Strigger7), using the Micah bot to verify through a network server. Some regions may have restricted access, but it is convenient.
-   + V series: Local verification version managed by [Micah](https://github.com/Micah123321), using the Micah bot to verify local features,Enhance anti-detection capabilities
-Please choose according to your needs.
+- Онлайн-верификация - аутентификация чита по интернету через сервер чита.
+- Локальная верификация - файл с зашифрованным ключом, который сохраняется в ту же папку, что и чит. 
 
 ---
 
-## ⚠ Disclaimer
+## ⚠ Важная информация
 
-- Use at your own risk.
-- **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
+- Используйте чит на свой страх и риск. Если вы боитесь получить бан - значит не пользуйтесь читом вообще. Мы не несём ответственности за ваши баны, и техническая поддержка этой самой игры не поможет вам с разбаном.
+- **Не распространяйте повсюду информацию про то, что вы пользуетесь читом и каким именно**. Крайне рекомендуется не показывать UID на скриншотах, где видно, что вы пользуетесь читом, или на серверах читерской тематики.
+
+FAQ перевёл на русский язык [butterbrodskiy](https://github.com/butterbrodskiy) - модератор сервера и переводчик чита на русский язык. Если есть вопросы или предложения - пишите в каналы поддержки в Discord-сервере.
