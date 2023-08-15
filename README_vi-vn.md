@@ -51,7 +51,7 @@
 
 - [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) là một repo hướng dẫn cho người dùng thuộc sở hữu của tổ chức Korepi.
 
-## 4 - Tôi có thể donate các bạn ở đâu?
+## 4 - Tôi có thể donate cho các bạn ở đâu?
 
 - Bạn có thể tìm thấy nơi donate tại ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (trong máy chủ discord [Cotton Buds](https://discord.gg/cottonbuds)).
 
