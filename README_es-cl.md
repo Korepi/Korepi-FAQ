@@ -16,7 +16,7 @@
     <td valign="center"><a href="README_pt-br.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e7-1f1f7.svg" width="16"/> Português (BR)</td>
     <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
     <td valign="center"><a href="README_ua-ua.md"><img src="https://github.com/Andrew1397/Ukraine/blob/main/Flag_of_Ukraine.png" width="16"/> Українська</a></td>
-    <td valign="center"><img src="https://twemoji.maxcdn.com/v/13.0.0/svg/1f1e8-1f1f1.svg" width="16"/> Español (CL)</td>
+    <td valign="center"><img src="https://twemoji.maxcdn.com/v/13.0.0/svg/1f1e6-1f1f7.svg" width="16"/> Español</td>
       
   </tr>
 </table>
@@ -38,16 +38,16 @@
 
 </div>
 
-## 1 - WHAT IS [KOREPI](https://github.com/Korepi/Korepi)?
+## 1 - QUÉ ES [KOREPI](https://github.com/Korepi/Korepi)?
 
-- [KOREPI](https://github.com/Korepi/Korepi) is a certain anime game free cheat that includes various memory modification features to enhance your gameplay experience.
+- [KOREPI](https://github.com/Korepi/Korepi) Es un truco gratuito de cierto juego de anime que incluye varias funciones de modificación de memoria para mejorar tu experiencia de juego.
 
-## 2 - What is the difference between fans and sponsors?
+## 2 - ¿Cuál es la diferencia entre fans y sponsors?
 
-- Fans are users who have permission to use the Micah bot.
-- Sponsors have access to additional communication channels and extra memory modification features (such as water walking).
+- Los Fans son usuarios que tienen permiso para utilizar el bot Micah.
+- Los sponsors tienen acceso a canales de comunicación adicionales y a funciones de modificación de memoria extra (como el caminar sobre el agua).
 
-## 3 - Where is [KOREPI](https://github.com/Korepi/Korepi)'s GitHub?
+## 3 -Dónde está [KOREPI](https://github.com/Korepi/Korepi)'s GitHub?
 
 - [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) is a tutorial repository owned by the korepi organization.
 
