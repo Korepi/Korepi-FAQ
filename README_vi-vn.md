@@ -38,52 +38,53 @@
 
 </div>
 
-## 1 - WHAT IS [KOREPI](https://github.com/Korepi/Korepi)?
+## 1 - [KOREPI](https://github.com/Korepi/Korepi) là gì?
 
-- [KOREPI](https://github.com/Korepi/Korepi) is a certain anime game free cheat that includes various memory modification features to enhance your gameplay experience.
+- [KOREPI](https://github.com/Korepi/Korepi) là một hệ thống phần mềm can thiệp miễn phí trong game anime bao gồm nhiều tính năng sửa đổi bộ nhớ khác nhau để nâng cao trải nghiệm chơi game của bạn.
 
-## 2 - What is the difference between fans and sponsors?
+## 2 - Có gì khác nhau giữa 'Fan' và những người tài trợ?
 
-- Fans are users who have permission to use the Micah bot.
-- Sponsors have access to additional communication channels and extra memory modification features (such as water walking).
+- Những người dùng 'Fan' có quyền truy cập và sử dụng 'Micah' bot
+- Những người tài trợ có quyền truy cập vào các kênh chat và các tính năng sửa đổi bộ nhớ độc quyền (như đi bộ dưới nước).
 
-## 3 - Where is [KOREPI](https://github.com/Korepi/Korepi)'s GitHub?
+## 3 - Trang GitHub của [KOREPI](https://github.com/Korepi/Korepi) ở đâu?
 
-- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) is a tutorial repository owned by the korepi organization.
+- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) là một repo hướng dẫn cho người dùng thuộc sở hữu của tổ chức Korepi.
 
-## 4 - Where can I donate to you guys?
+## 4 - Tôi có thể donate các bạn ở đâu?
 
-- The donation address can be found at ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (in [Cotton Buds](https://discord.gg/cottonbuds) discord server).
+- Bạn có thể tìm thấy nơi donate tại ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (trong máy chủ discord [Cotton Buds](https://discord.gg/cottonbuds)).
 
-## 5 - How do I use when downloaded already?
+## 5 - Làm thế nào để tôi có thể sử dụng Korepi sau khi đã tải về?
 
-- Please refer to [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) for instructions.
+- Hãy dành một chút thời gian xem hướng dẫn tại [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial).
 
-## 6 - How do I obtain or reset a key?
+## 6 - Làm cách nào để tôi có thể lấy hoặc đặt lại key?
 
-- To obtain an online verification key, enter `/getkey` in ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). To reset a key, enter `/resetkey` (this will reduce the key's validity by 1 day and may trigger a cooldown period).
+- Để lấy key xác minh trực tuyến, vui lòng nhập `/getkey` ở ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). Để đặt lại key, hãy nhập `/resetkey` (điều này sẽ giảm hiệu lực của key đi 1 ngày và có thể kích hoạt thời gian chờ).
 
-## 7 - Why am I seeing garbled characters?
+## 7 - Tại sao tôi nhìn thấy các ký tự bị lỗi?
 
-- Garbled characters may be caused by your computer system lacking Chinese fonts. To resolve this, you can download Chinese fonts online, such as Microsoft YaHei.
+- Chữ bị lỗi, cắt xén có thể là do máy tính của bạn đang thiếu font tiếng Trung. Để giải quyết vấn đề này, bạn có thể tải xuống các font tiếng Trung, chẳng hạn như font Microsoft YaHei.
 
-## 8 - What is the difference between online verification and local verification?
+## 8 - Sự khác biệt giữa xác minh trực tuyến và xác minh cục bộ (local) là gì?
 
-- Online verification refers to the method of accessing an online verification server for authentication.
-- For instructions on local verification, please refer to [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
+- Xác minh trực tuyến dùng phương pháp truy cập vào máy chủ xác minh để xác thực.
+- Để biết hướng dẫn về xác minh cục bộ, vui lòng tham khảo tại [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
 
-## 9 - How should I choose the corresponding version?
+## 9 - Tôi nên chọn phiên bản tương ứng như thế nào?
 
-- When choosing the corresponding version, consider the following factors:
+- Khi lựa chọn phiên bản tương ứng cần xem xét các yếu tố sau đây:
 
-   + P series: Public series with code updates only once and no further maintenance.
-   + F series: Online verification version managed by [Strigger7](https://github.com/Strigger7), using the Micah bot to verify through a network server. Some regions may have restricted access, but it is convenient.
-   + V series: Local verification version managed by [Micah](https://github.com/Micah123321), using the Micah bot to verify local features,Enhance anti-detection capabilities
-Please choose according to your needs.
+   + Dòng P: Là phiên bản Public chỉ được cập nhật code 1 lần duy nhất và sẽ không bảo trì thêm.
+   + Dòng F: Là phiên bản xác minh trực tuyến do [Strigger7](https://github.com/Strigger7) quản lý, sử dụng bot Micah để xác minh thông qua máy chủ xác minh. Một số khu vực có thể có quyền truy cập bị hạn chế, nhưng nó thuận tiện hơn.
+   + Dòng V: Là phiên bản xác minh cục bộ do [Micah](https://github.com/Micah123321) quản lý, sử dụng bot Micah để xác minh các tính năng cục bộ, giảm thiểu khả năng bị phát hiện bởi game.
+  
+Vui lòng chọn phiên bản theo đúng nhu cầu của bạn.
 
 ---
 
-## ⚠ Disclaimer
+## ⚠ Miễn trừ trách nhiệm!
 
-- Use at your own risk.
-- **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
+- Sử dụng hay không thì tùy bạn.
+- Xin vui lòng không lan truyền cũng như cho người khác biết về việc bạn đang sử dụng phần mềm thứ 3, điều này sẽ giúp bạn an toàn. BẠN ĐÃ ĐƯỢC CẢNH BÁO TRƯỚC.
