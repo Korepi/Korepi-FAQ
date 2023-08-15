@@ -45,7 +45,7 @@
 ## 2 - Có gì khác nhau giữa 'Fan' và những người tài trợ?
 
 - Những người dùng 'Fan' có quyền truy cập và sử dụng 'Micah' bot
-- Những người tài trợ có quyền truy cập vào các kênh chat và các tính năng sửa đổi bộ nhớ độc quyền (như đi bộ dưới nước).
+- Những người tài trợ có quyền truy cập vào các kênh chat và các tính năng sửa đổi bộ nhớ độc quyền (như đi bộ trên mặt nước).
 
 ## 3 - Trang GitHub của [KOREPI](https://github.com/Korepi/Korepi) ở đâu?
 
