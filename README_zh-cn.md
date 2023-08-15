@@ -38,52 +38,51 @@
 
 </div>
 
-## 1 - WHAT IS [KOREPI](https://github.com/Korepi/Korepi)?
+## 1 - 什么是 [KOREPI](https://github.com/Korepi/Korepi)?
 
-- [KOREPI](https://github.com/Korepi/Korepi) is a certain anime game free cheat that includes various memory modification features to enhance your gameplay experience.
+- [KOREPI](https://github.com/Korepi/Korepi) 是某动漫游戏免费科技，包括各种功能，以增强您的游戏体验.
 
-## 2 - What is the difference between fans and sponsors?
+## 2 - Fans和sponsors有什么区别?
 
-- Fans are users who have permission to use the Micah bot.
-- Sponsors have access to additional communication channels and extra memory modification features (such as water walking).
+- Fans 是有权使用 Micah bot 的用户.
+- Sponsors 可以访问额外的频道和额外功能(例如水上行走).
 
-## 3 - Where is [KOREPI](https://github.com/Korepi/Korepi)'s GitHub?
+## 3 - 哪里是 [KOREPI](https://github.com/Korepi/Korepi)的 GitHub?
 
-- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) is a tutorial repository owned by the korepi organization.
+- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) 是 korepi 组织拥有的教程存储库.
 
-## 4 - Where can I donate to you guys?
+## 4 - 哪里可以给你们捐款?
 
-- The donation address can be found at ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (in [Cotton Buds](https://discord.gg/cottonbuds) discord server).
+- 捐款地址可以在这 ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) 查看， (在 [Cotton Buds](https://discord.gg/cottonbuds) discord 服务器).
 
-## 5 - How do I use when downloaded already?
+## 5 - 下载之后如何使用?
 
-- Please refer to [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) for instructions.
+- 请前往 [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) 查看Korepi使用教程.
 
-## 6 - How do I obtain or reset a key?
+## 6 - 如何获取或重置密钥?
 
-- To obtain an online verification key, enter `/getkey` in ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). To reset a key, enter `/resetkey` (this will reduce the key's validity by 1 day and may trigger a cooldown period).
+- 要获取在线验证密钥,请输入 `/getkey` 在 ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). 要重置密钥,请输入 `/resetkey` (这样可能会使密钥的有效期减少 1 天，并可能触发冷却期).
 
-## 7 - Why am I seeing garbled characters?
+## 7 - 为什么会看到有乱码?
 
-- Garbled characters may be caused by your computer system lacking Chinese fonts. To resolve this, you can download Chinese fonts online, such as Microsoft YaHei.
+- 出现乱码可能是由于您的电脑系统缺少中文字体造成的。 要解决这个问题，您可以在线下载中文字体，例如微软雅黑.
 
-## 8 - What is the difference between online verification and local verification?
+## 8 - 在线验证和本地验证有什么区别?
 
-- Online verification refers to the method of accessing an online verification server for authentication.
-- For instructions on local verification, please refer to [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
+- 在线验证是指访问在线验证服务器进行身份验证的方法.
+- 本地验证说明请查看 [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
 
-## 9 - How should I choose the corresponding version?
+## 9 - 如何选择对应的版本?
 
-- When choosing the corresponding version, consider the following factors:
+- 选择对应的版本时，请考虑以下因素:
 
-   + P series: Public series with code updates only once and no further maintenance.
-   + F series: Online verification version managed by [Strigger7](https://github.com/Strigger7), using the Micah bot to verify through a network server. Some regions may have restricted access, but it is convenient.
-   + V series: Local verification version managed by [Micah](https://github.com/Micah123321), using the Micah bot to verify local features,Enhance anti-detection capabilities
-Please choose according to your needs.
+   + P版:公共系列，代码仅更新一次，不再维护.
+   + F版:在线验证版 By [Strigger7](https://github.com/Strigger7), 使用Micah bot通过网络服务器进行验证.有些地区可能会限制访问,但也是很快捷方便的.
+   + V版:本地验证版 by [Micah](https://github.com/Micah123321), 使用Micah bot验证本地特征,增强反利弊能力,请根据您的需求选择.
 
 ---
 
-## ⚠ Disclaimer
+## ⚠ 免责声明
 
-- Use at your own risk.
-- **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
+- 使用风险自负.
+- **请勿使用某些第三方软件传播有关您的信息**, 你会很好的.你已被警告.
