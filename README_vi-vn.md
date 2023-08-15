@@ -40,7 +40,7 @@
 
 ## 1 - [KOREPI](https://github.com/Korepi/Korepi) là gì?
 
-- [KOREPI](https://github.com/Korepi/Korepi) là một hệ thống phần mềm can thiệp miễn phí trong game anime bao gồm nhiều tính năng sửa đổi bộ nhớ khác nhau để nâng cao trải nghiệm chơi game của bạn.
+- [KOREPI](https://github.com/Korepi/Korepi) là một hệ thống phần mềm can thiệp miễn phí trong 1 game anime nào đó bao gồm nhiều tính năng sửa đổi bộ nhớ khác nhau để nâng cao trải nghiệm chơi game của bạn.
 
 ## 2 - Có gì khác nhau giữa 'Fan' và những người tài trợ?
 
