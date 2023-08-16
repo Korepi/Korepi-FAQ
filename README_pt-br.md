@@ -34,56 +34,59 @@
 ---
 <div align="center">
   
-# 🔥 KOREPI FAQ 🔥
+# 🔥FAQ KOREPI 🔥
 
 </div>
 
-## 1 - WHAT IS [KOREPI](https://github.com/Korepi/Korepi)?
+## 1 - O QUE É [KOREPI](https://github.com/Korepi/Korepi)?
 
-- [KOREPI](https://github.com/Korepi/Korepi) is a certain anime game free cheat that includes various memory modification features to enhance your gameplay experience.
+- [KOREPI](https://github.com/Korepi/Korepi) é uma certo trapaça gratuita de jogo de anime que inclui vários recursos de modificação de memória para aprimorar sua experiência de jogo.
 
-## 2 - What is the difference between fans and sponsors?
+## 2 - Qual a diferença entre fãs e patrocinadores?
 
-- Fans are users who have permission to use the Micah bot.
-- Sponsors have access to additional communication channels and extra memory modification features (such as water walking).
+- Fãs são usuários que têm permissão para usar o bot Micah.
+- Os patrocinadores têm acesso a canais de comunicação adicionais e recursos extras de modificação de memória (como caminhar na água).
 
-## 3 - Where is [KOREPI](https://github.com/Korepi/Korepi)'s GitHub?
+## 3 - Onde está o github do [KOREPI](https://github.com/Korepi/Korepi)?
 
-- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) is a tutorial repository owned by the korepi organization.
+- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) é um repositório de tutoriais de propriedade da organização Korepi.
 
-## 4 - Where can I donate to you guys?
+## 4 - Onde posso doar para vocês?
 
-- The donation address can be found at ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (in [Cotton Buds](https://discord.gg/cottonbuds) discord server).
+- O endereço de doação pode ser encontrado em ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (no servidor [Cotton Buds](https://discord.gg/cottonbuds) no Discord).
 
-## 5 - How do I use when downloaded already?
+## 5 - Como faço para usar quando já baixei?
 
-- Please refer to [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) for instructions.
+- Por favor, consulte [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) para instruções.
 
-## 6 - How do I obtain or reset a key?
+## 6 - Como faço para obter ou redefinir uma chave?
 
-- To obtain an online verification key, enter `/getkey` in ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). To reset a key, enter `/resetkey` (this will reduce the key's validity by 1 day and may trigger a cooldown period).
+- Para obter uma chave de verificação online, digite `/getkey` em ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). Para redefinir uma chave, digite `/resetkey` (isso reduzirá a validade da chave em 1 dia e pode desencadear um período de espera).
 
-## 7 - Why am I seeing garbled characters?
+## 7 - Por que estou vendo caracteres distorcidos?
 
-- Garbled characters may be caused by your computer system lacking Chinese fonts. To resolve this, you can download Chinese fonts online, such as Microsoft YaHei.
+- Caracteres distorcidos podem ser causados pela falta de fontes chinesas no sistema do seu computador. Para resolver isso, você pode baixar fontes chinesas online, como Microsoft YaHei.
 
-## 8 - What is the difference between online verification and local verification?
+## 8 - Qual é a diferença entre verificação online e verificação local?
 
-- Online verification refers to the method of accessing an online verification server for authentication.
-- For instructions on local verification, please refer to [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
+- Verificação online refere-se ao método de acesso a um servidor de verificação online para autenticação.
+- Para obter instruções sobre a verificação local, consulte [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
 
-## 9 - How should I choose the corresponding version?
+## 9 - Como devo escolher a versão correspondente?
 
-- When choosing the corresponding version, consider the following factors:
+- Ao escolher a versão correspondente, considere os seguintes fatores:
 
-   + P series: Public series with code updates only once and no further maintenance.
-   + F series: Online verification version managed by [Strigger7](https://github.com/Strigger7), using the Micah bot to verify through a network server. Some regions may have restricted access, but it is convenient.
-   + V series: Local verification version managed by [Micah](https://github.com/Micah123321), using the Micah bot to verify local features,Enhance anti-detection capabilities
-Please choose according to your needs.
+   + série P: Série pública com atualizações de código apenas uma vez e sem manutenção.
+   + série F: Versão de verificação online gerida por [Strigger7](https://github.com/Strigger7), usando o bot Micah para verificar por meio de um servidor de rede. Algumas regiões podem ter acesso restrito, mas é conveniente.
+   + série V: Versão de verificação local gerenciada por [Micah](https://github.com/Micah123321), usando o bot Micah para verificar os recursos locais, aprimorar os recursos de antidetecção.
+
+Por favor, escolha de acordo com suas necessidades.
 
 ---
 
-## ⚠ Disclaimer
+## ⚠ Isenção de responsabilidade
 
-- Use at your own risk.
-- **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
+- Use por sua conta e risco.
+- **Não espalhe informações sobre você usando algum software de terceiros**, e você ficará bem. Voce foi avisado.
+
+- Perguntas frequentes traduzidas para o pt-br por [sabala](https://bio.site/sabala). Se você tiver dúvidas ou sugestões - escreva nos canais de suporte no servidor Discord.
