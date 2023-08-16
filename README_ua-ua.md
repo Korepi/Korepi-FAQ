@@ -38,52 +38,49 @@
 
 </div>
 
-## 1 - WHAT IS [KOREPI](https://github.com/Korepi/Korepi)?
+## 1 - Що таке [KOREPI](https://github.com/Korepi/Korepi)?
 
-- [KOREPI](https://github.com/Korepi/Korepi) is a certain anime game free cheat that includes various memory modification features to enhance your gameplay experience.
+- [KOREPI](https://github.com/Korepi/Korepi) — це безкоштовний чит для аніме-гри, який включає в себе різні функції модифікації пам'яті для покращення ігрового процесу.
 
-## 2 - What is the difference between fans and sponsors?
+## 2 - Яка різниця між Fans і Sponsors?
 
-- Fans are users who have permission to use the Micah bot.
-- Sponsors have access to additional communication channels and extra memory modification features (such as water walking).
+- Fans — це користувачі, які пройшли аутентифікацію через бота Micah в [Discord-сервері](https://discord.gg/cottonbuds).
+- Sponsors — це користувачі, що задонатили розробникам чита і мають доступ до додаткових каналів зв’язку та додаткових функцій модифікації пам’яті (наприклад, ходьба по воді, прискорення польоту, 100% критичний удар).
 
-## 3 - Where is [KOREPI](https://github.com/Korepi/Korepi)'s GitHub?
+## 3 - Куди донатити для ролі Sponsor?
 
-- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) is a tutorial repository owned by the korepi organization.
+- Посилання на донати знаходяться за офіційним посиланням у Discord-сервері Korepi (посилання на Ko-Fi, Traktir, Adfian і Boosty): [#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205)
+- Або ж зверніться до butterbrodskiy у Discord'і, щоб зробити прямий переказ на monobank (Україна).
 
-## 4 - Where can I donate to you guys?
+## 4 - Як вибрати відповідну версію?
 
-- The donation address can be found at ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (in [Cotton Buds](https://discord.gg/cottonbuds) discord server).
+- Вибираючи відповідну версію, враховуйте наступні фактори:
 
-## 5 - How do I use when downloaded already?
+  - P версія: публічна серія з оновленням коду лише один раз і без подальшого обслуговування.
+  - F версія: Версія з онлайн-верифікацією, створена [Strigger7](https://github.com/Strigger7), де ви вводите цифровий ключ, виданий у [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). Це версії, які регулярно оновлюються лише з впровадженням важливих функцій та виправленням помилок для забезпечення стабільності.
+  - V версія (наприклад, v0.9.4): Версія з локальною верифікацією [Micah](https://github.com/Micah123321), де ви входите через завантажений файл із ключем, виданий у [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). Це експериментальні версії, які постійно оновлюються, з додаванням нових різних і корисних функцій, а також швидким виправленням помилок.
 
-- Please refer to [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) for instructions.
+## 5 - Як використовувати чит після його завантаження?
 
-## 6 - How do I obtain or reset a key?
+- Перейти в [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) для ознайомлення з детальною інструкцією.
 
-- To obtain an online verification key, enter `/getkey` in ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). To reset a key, enter `/resetkey` (this will reduce the key's validity by 1 day and may trigger a cooldown period).
+## 6 - Як отримати або скинути ключ?
 
-## 7 - Why am I seeing garbled characters?
+- Для отримання ключа онлайн-верифікації, введіть `/getkey` у ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). Щоб скинути ключ, введіть `/resetkey` (майте на увазі: при постійному скиданні ключа може спрацювати захист від ботів, і вам доведеться чекати тиждень для наступного скидання).
+- Щоб пройти локальну верифікацію та отримати файл із зашифрованим ключем, напишіть `/verify` у ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781325).
 
-- Garbled characters may be caused by your computer system lacking Chinese fonts. To resolve this, you can download Chinese fonts online, such as Microsoft YaHei.
+## 7 - У чому різниця між онлайн-верифікацією та локальною верифікацією?
 
-## 8 - What is the difference between online verification and local verification?
+- Онлайн-верифікація — це метод доступу до сервера онлайн-верифікації для автентифікації.
+- Локальна верифікація — файл із зашифрованим ключем, який зберігається в ту саму папку, що й чит.
 
-- Online verification refers to the method of accessing an online verification server for authentication.
-- For instructions on local verification, please refer to [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
+## 8 - Чому я бачу спотворені символи?
 
-## 9 - How should I choose the corresponding version?
-
-- When choosing the corresponding version, consider the following factors:
-
-   + P series: Public series with code updates only once and no further maintenance.
-   + F series: Online verification version managed by [Strigger7](https://github.com/Strigger7), using the Micah bot to verify through a network server. Some regions may have restricted access, but it is convenient.
-   + V series: Local verification version managed by [Micah](https://github.com/Micah123321), using the Micah bot to verify local features,Enhance anti-detection capabilities
-Please choose according to your needs.
+- Спотворені символи можуть бути спричинені відсутністю китайських шрифтів у вашій системі. Щоб вирішити цю проблему, ви можете завантажити китайські шрифти онлайн, наприклад Microsoft YaHei і встановити їх.
 
 ---
 
-## ⚠ Disclaimer
+## ⚠ Відмова від відповідальності
 
-- Use at your own risk.
-- **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
+- Використовуйте на свій страх і ризик.
+- **Не поширюйте інформацію про те, що ви використовуєте стороннє програмне забезпечення**, і все буде добре. Ми попередили.
