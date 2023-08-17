@@ -40,7 +40,7 @@
 
 </div>
 
-## 1 - [KOREPI](https://github.com/Korepi/Korepi) KOREPI NEDİR?
+## 1 - [KOREPI](https://github.com/Korepi/Korepi) NEDİR?
 
 - [KOREPI](https://github.com/Korepi/Korepi), oyun deneyiminizi geliştirmek için çeşitli bellek değiştirme özellikleri içeren belirli bir anime oyunun ücretsiz hilesidir.
 
