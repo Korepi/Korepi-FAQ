@@ -39,52 +39,50 @@
 
 </div>
 
-## 1 - WHAT IS [KOREPI](https://github.com/Korepi/Korepi)?
+## 1 - APA ITU [KOREPI](https://github.com/Korepi/Korepi)?
 
-- [KOREPI](https://github.com/Korepi/Korepi) is a certain anime game free cheat that includes various memory modification features to enhance your gameplay experience.
+- [KOREPI](https://github.com/Korepi/Korepi) adalah cheat gratis untuk gim anime tertentu yang menyertakan berbagai fitur modifikasi memori untuk meningkatkan pengalaman bermain kamu.
 
-## 2 - What is the difference between fans and sponsors?
+## 2 - Apa perbedaan di antara fans dan sponsors?
 
-- Fans are users who have permission to use the Micah bot.
-- Sponsors have access to additional communication channels and extra memory modification features (such as water walking).
+- Fans adalah pengguna yang memiliki izin untuk menggunakan bot Micah.
+- Sponsor memiliki akses tambahan ke channel komunikasi dan fitur modifikasi memori (seperti berjalan di air).
 
-## 3 - Where is [KOREPI](https://github.com/Korepi/Korepi)'s GitHub?
+## 3 - Dimana GitHub [KOREPI](https://github.com/Korepi/Korepi)?
 
-- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) is a tutorial repository owned by the korepi organization.
+- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) adalah repositori tutorial yang dimiliki oleh organisasi korepi.
 
-## 4 - Where can I donate to you guys?
+## 4 - Dimana saya bisa berdonasi/menyumbang untuk kalian?
 
-- The donation address can be found at ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (in [Cotton Buds](https://discord.gg/cottonbuds) discord server).
+- Alamat donasi bisa dilihat di channel ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (di server discord [Cotton Buds](https://discord.gg/cottonbuds)).
 
-## 5 - How do I use when downloaded already?
+## 5 - Bagaimana cara saya menggunakannya ketika sudah mengunduhnya?
 
-- Please refer to [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) for instructions.
+- Silahkan mengunjungi [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) untuk instruksi lebih lanjut.
 
-## 6 - How do I obtain or reset a key?
+## 6 - Bagaimana cara saya mendapatkan atau mengatur ulang kunci verifikasi?
 
-- To obtain an online verification key, enter `/getkey` in ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). To reset a key, enter `/resetkey` (this will reduce the key's validity by 1 day and may trigger a cooldown period).
+- Untuk mendapatkan kunci verifikasi online, ketikkan `/getkey` di channel ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). Untuk mengatur ulang kunci verifikasi, ketikkan `/resetkey` (ini akan mengurangi validitas kunci sebanyak 1 hari dan dapat memicu periode cooldown).
 
-## 7 - Why am I seeing garbled characters?
+## 7 - Mengapa saya melihat font yang terlihat rusak atau tidak dapat dibaca?
 
-- Garbled characters may be caused by your computer system lacking Chinese fonts. To resolve this, you can download Chinese fonts online, such as Microsoft YaHei.
+- font yang terlihat rusak atau tidak dapat dibaca bisa disebabkan oleh sistem komputer kamu yang tidak memiliki font berbahasa Mandarin. Untuk mengatasinya, kamu dapat mengunduh font berbahasa Mandarin secara online, seperti Microsoft YaHei.
 
-## 8 - What is the difference between online verification and local verification?
+## 8 - Apa perbedaan di antara verifikasi online dan verifikasi pada sistem lokal?
 
-- Online verification refers to the method of accessing an online verification server for authentication.
-- For instructions on local verification, please refer to [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
+- Verifikasi online mengacu pada metode mengakses server verifikasi secara online untuk autentikasi.
+- Untuk petunjuk tentang verifikasi sistem lokal, silakan lihat [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
 
-## 9 - How should I choose the corresponding version?
+## 9 - Bagaimana saya memilih versi yang sesuai?
 
-- When choosing the corresponding version, consider the following factors:
+- Saat memilih versi yang sesuai, pertimbangkan faktor-faktor berikut:
 
-   + P series: Public series with code updates only once and no further maintenance.
-   + F series: Online verification version managed by [Strigger7](https://github.com/Strigger7), using the Micah bot to verify through a network server. Some regions may have restricted access, but it is convenient.
-   + V series: Local verification version managed by [Micah](https://github.com/Micah123321), using the Micah bot to verify local features,Enhance anti-detection capabilities
-Please choose according to your needs.
+   + Seri P: Seri publik dengan pembaruan hanya sekali dan tidak ada pemeliharaan atau pembaruan lebih lanjut.
+   + Seri F: Versi verifikasi online yang dikelola oleh [Strigger7](https://github.com/Strigger7), menggunakan bot Micah untuk memverifikasi melalui server. Beberapa wilayah mungkin memiliki akses terbatas, namun lebih mudah.
+   + Seri V: Versi verifikasi sistem lokal yang dikelola oleh [Micah](https://github.com/Micah123321), menggunakan bot Micah untuk memverifikasi fitur lokal, meningkatkan kemampuan anti-deteksi<br> Silahkan pilih sesuai dengan kebutuhan kamu.
 
 ---
 
-## ⚠ Disclaimer
-
-- Use at your own risk.
-- **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
+## ⚠️ PERINGATAN
+- Gunakan dengan risiko kamu sendiri.
+- **Jangan menyebarkan informasi tentang kamu menggunakan perangkat lunak pihak ketiga**, dan kamu akan baik-baik saja. Kamu telah diperingatkan.
