@@ -83,6 +83,10 @@
    + V serisi: Micah](https://github.com/Micah123321) tarafından yönetilen, yerel özellikleri doğrulamak için Micah botunu kullanan yerel doğrulama sürümü.
 Lütfen ihtiyaçlarınıza göre seçim yapınız.
 
+## 10 - Oyunun yeni sürümünde neden Korepi kullanamıyorum?
+
+- Açıkçası, hile o anime oyununun yeni sürümünde kullanılmak üzere güncellenmelidir.
+- Bu sürümün karmaşıklığına bağlı olarak güncelleme yaklaşık **1-2 hafta** sürecektir.
 ---
 
 ## ⚠ Uyarı
