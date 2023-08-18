@@ -82,6 +82,11 @@
    + Seri F: Versi verifikasi online yang dikelola oleh [Strigger7](https://github.com/Strigger7), menggunakan bot Micah untuk memverifikasi melalui server. Beberapa wilayah mungkin memiliki akses terbatas, namun lebih mudah.
    + Seri V: Versi verifikasi sistem lokal yang dikelola oleh [Micah](https://github.com/Micah123321), menggunakan bot Micah untuk memverifikasi fitur lokal, meningkatkan kemampuan anti-deteksi<br> Silahkan pilih sesuai dengan kebutuhan kamu.
 
+## 10 - Mengapa saya tidak bisa menggunakan Korepi di gim dengan versi terbaru?
+
+- Sudah jelas, karena cheat harus diperbarui untuk dapat digunakan pada versi terbaru dari gim anime tersebut.
+- Ini akan membutuhkan waktu sekitar **1-2 minggu** untuk memperbarui cheatnya tergantung pada kerumitan versi gim tersebut.
+
 ---
 
 ## ⚠️ PERINGATAN
