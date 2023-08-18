@@ -33,7 +33,7 @@
 </table>
 </div>
 	    
---
+---
 <div align="center">
   
 # 🔥 FAQ KOREPI 🔥
