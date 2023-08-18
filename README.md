@@ -83,6 +83,10 @@
    + V series: Local verification version managed by [Micah](https://github.com/Micah123321), using the Micah bot to verify local features,Enhance anti-detection capabilities
 Please choose according to your needs.
 
+## 10 - Why can't I use Korepi in the new version of the game?
+
+- Obviously, the cheat has to be updated to use in the brand new version of that anime game.
+- It will take about **1-2 weeks** to update depending on the complexity of that version.
 ---
 
 ## ⚠ Disclaimer
