@@ -84,6 +84,11 @@
   
 Vui lòng chọn phiên bản theo đúng nhu cầu của bạn.
 
+## 10 - Vì sao tôi không thể dùng korepi ở phiên bản mới của game?
+
+- Rõ ràng, cheat phải được cập nhật để sử dụng trong game phiên bản mới
+- Thông thường sẽ mất khoảng 1 đến 2 tuần tuỳ vào độ phức tạp của phiên bản đó.
+
 ---
 
 ## ⚠ Miễn trừ trách nhiệm!
