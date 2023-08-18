@@ -82,6 +82,11 @@
    + Série F : Version de vérification en ligne gérée par [Strigger7](https://github.com/Strigger7), utilisant le bot Micah pour la vérification via un serveur réseau. Certaines régions peuvent avoir un accès restreint, mais c'est pratique.
    + Série V : Version de vérification locale gérée par [Micah](https://github.com/Micah123321), utilisant le bot Micah pour vérifier les fonctionnalités locales, améliorant les capacités de détection anti-piratage. Veuillez choisir en fonction de vos besoins.
 
+## 10 - Pourquoi ne puis-je pas utiliser Korepi dans la nouvelle version du jeu ?
+
+- Évidemment, le cheat doit être mis à jour pour pouvoir être utilisé dans la toute nouvelle version de ce jeu d'anime.
+- Cela prendra environ **1 à 2 semaines** pour effectuer la mise à jour, en fonction de la complexité de cette version.
+
 ---
 
 ## ⚠ Avertissement
