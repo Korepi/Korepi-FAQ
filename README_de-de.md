@@ -29,7 +29,7 @@
     <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td> 
     <td valign="center"><a href="README_vi-vn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt </a></td>
     <td valign="center"><a href="README_tr-tr.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/tr.svg" width="16"/> Türkçe </a></td>
-    <td valign="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f1e9-1f1ea.svg" width="16"/> Germany</td>
+    <td valign="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f1e9-1f1ea.svg" width="16"/> Deutsch</td>
   </tr>
 </table>
 </div>
@@ -54,7 +54,7 @@
 
 - [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) ist ein Tutorial-Repository, das von der Korepi Organisation verwaltet wird.
 
-## 4 - Where can I donate to you guys?
+## 4 - Wo kann ich euch Geld spenden?
 
 - Die Spendenadresse findest du unter ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (im [Cotton Buds](https://discord.gg/cottonbuds) discord server).
 
@@ -77,7 +77,7 @@
 
 ## 9 - Wie sollte ich die entsprechende version wählen?
 
-- When choosing the corresponding version, consider the following factors:
+- Berücksichtigen Sie bei der Wahl der entsprechenden Version die folgenden Faktoren:
 
    + P-Serie: Öffentliche Serie mit einmaligen Code-Updates, und keiner weiteren Wartung.
    + F Serie: Online-verifizierungsversion, verwalted von [Strigger7](https://github.com/Strigger7), bei der der Micah bot über ein Netzwerkserver verifiziert. Einige Regionen haben möglicherweise eingeschränkten zugang.
