@@ -82,17 +82,16 @@
 - 일치하는 버전을 선택하려면 다음을 확인합니다.
 
    + P 시리즈: 코드 업데이트가 한 번만 있는 공용 시리즈이며 추가 유지보수는 없습니다.
-   + F 시리즈: Online verification version managed by [Strigger7](https://github.com/Strigger7), using the Micah bot to verify through a network server. Some regions may have restricted access, but it is convenient.
-   + V series: Local verification version managed by [Micah](https://github.com/Micah123321), using the Micah bot to verify local features,Enhance anti-detection capabilities
-Please choose according to your needs.
+   + F 시리즈: [Strigger7](https://github.com/Strigger7)이 관리하는 온라인 인증 버전으로, Micah 봇을 사용하여 네트워크 서버를 통해 검증합니다. 일부 지역에서는 액세스가 제한되지만 간편합니다.
+   + V 시리즈: [Micah](https://github.com/Micah123321)가 관리하는 로컬 인증 버전으로, Micah 봇을 사용하여 로컬 인증을 하며 안티치트 방지 기능을 향상합니다. 필요에 따라 선택하세요.
 
-## 10 - Why can't I use Korepi in the new version of the game?
+## 10 - 새 버전의 게임에서 Korepi를 사용할 수 없는 이유는 무엇입니까?
 
-- Obviously, the cheat has to be updated to use in the brand new version of that anime game.
-- It will take about **1-2 weeks** to update depending on the complexity of that version.
+- 분명히, 그 애니메이션 게임의 새로운 버전에서 사용하려면 치트가 업데이트되어야 합니다.
+- 해당 버전의 복잡성에 따라 업데이트하는 데 **1-2주** 정도 소요됩니다.
 ---
 
-## ⚠ Disclaimer
+## ⚠ 중요한 정보
 
-- Use at your own risk.
-- **Do not spread info about you using some third-party software**, and you shall be good. You've been warned.
+- 정지를 당하더라도 그에 대한 책임은 당신에게 있습니다.
+- **치트를 사용한다는 사실과 어떤 치트를 사용하는지에 대한 정보를 모든 곳에 퍼뜨리지 마십시오.e**, 치트를 사용하고 있음을 알 수 있는 스크린샷이나 UID를 공개하지 않는 것이 좋습니다.
