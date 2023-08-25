@@ -30,6 +30,7 @@
     <td valign="center"><a href="README_vi-vn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt </a></td>
    <td valign="center"><a href="README_tr-tr.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/tr.svg" width="16"/> Türkçe </a></td>
    <td valign="center"><a href="README_de-de.md"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f1e9-1f1ea.svg" width="16"/> Deutsch</td>
+    <td valign="center"><a href="README_ko-kr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png?20230620164129" width="16"/> Корейский</td>
   </tr>
 </table>
 </div>
