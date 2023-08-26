@@ -18,7 +18,7 @@
     <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
     <td valign="center"><a href="README_ua-ua.md"><img src="https://github.com/Andrew1397/Ukraine/blob/main/Flag_of_Ukraine.png" width="16"/> Українська</a></td>
     <td valign="center"><a href="README_es-cl.md"><img src="https://twemoji.maxcdn.com/v/13.0.0/svg/1f1e8-1f1f1.svg" width="16"/> Español (CL)</td>
-    <td valign="center"><a href="README_ko-kr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png?20230620164129" width="16"/> Korean</td>
+    <td valign="center"><a href="README_ko-kr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png?20230620164129" width="16"/> 한국어</td>
   </tr>
 </table>
 </div>
