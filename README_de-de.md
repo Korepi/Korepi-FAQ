@@ -31,6 +31,7 @@
     <td valign="center"><a href="README_tr-tr.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/tr.svg" width="16"/> Türkçe </a></td>
     <td valign="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f1e9-1f1ea.svg" width="16"/> Deutsch</td>
     <td valign="center"><a href="README_it-it.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1ee-1f1f9.svg" width="16"/> Italy</a></td>
+    <td valign="center"><a href="README_ko-kr.md"><img src="https://em-content.zobj.net/source/twitter/53/flag-for-south-korea_1f1f0-1f1f7.png" width="16"/> 한국어</td>
   </tr>
 </table>
 </div>
