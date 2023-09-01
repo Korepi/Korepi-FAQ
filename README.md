@@ -88,6 +88,10 @@ Please choose according to your needs.
 
 - Obviously, the cheat has to be updated to use in the brand new version of that anime game.
 - It will take about **1-2 weeks** to update depending on the complexity of that version.
+
+## 11 - If I got fans role already, do I have to keep sign in everyday to keep it?
+
+- No, because it was one-time action when you joined the server! **You can keep Fans forever**
 ---
 
 ## ⚠ Disclaimer
