@@ -54,7 +54,7 @@
 
 ## 3 - [KOREPI](https://github.com/Korepi/Korepi)의 깃허브는 어디에 있나요?
 
-- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial)는 Korepi 조직에서 소유하고 있는 튜토리얼 레포지토리입니다.
+- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial)은 Korepi 조직에서 소유하고 있는 튜토리얼 레포지토리입니다.
 
 ## 4 - 어디에서 당신들에게 기부할 수 있나요?
 
@@ -99,4 +99,4 @@
 ## ⚠ 중요한 정보
 
 - 정지에 대한 책임은 당신에게 있습니다.
-- **치트를 사용한다는 사실과 어떤 치트를 사용하는지에 대한 정보를 모든 곳에 퍼뜨리지 마십시오.e**,
+- **치트를 사용한다는 사실과 어떤 치트를 사용하는지에 대한 정보를 모든 곳에 퍼뜨리지 마십시오.**
