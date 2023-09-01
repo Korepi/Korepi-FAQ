@@ -92,6 +92,10 @@ Vui lòng chọn phiên bản theo đúng nhu cầu của bạn.
 - Rõ ràng, cheat phải được cập nhật để sử dụng trong game phiên bản mới
 - Thông thường sẽ mất khoảng **1 đến 2 tuần** tuỳ vào độ phức tạp của phiên bản đó.
 
+## 11 - Khi mà tôi có role Fans rồi thì có cần phải /sign-in mấy ngày tiếp theo không?
+
+- Không cần, vì hoạt động điểm danh chỉ xuất hiện khi bạn vừa tham gia discord. Sau khi nhận được role Fans, bạn có thể giữ nó mãi mãi.
+
 ---
 
 ## ⚠ Miễn trừ trách nhiệm!
