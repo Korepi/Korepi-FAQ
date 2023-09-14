@@ -1,22 +1,23 @@
 <p align="center">
   <a href="#"><img width="360" height="360" src="https://media.discordapp.net/attachments/1033549666769449002/1107009612210765955/matches.png"></a>
-  <a href="#"><img width="650" height="100" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
+  <a href="#"><img width="650" height="213" src="https://media.discordapp.net/attachments/1126893908597669989/1147375262980382790/image.png"></a>
 </p>
 
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
+	<a href="https://discord.gg/korek"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
 <table>
   <tr>
-    <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
-    <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e7-1f1f7.svg" width="16"/> Português (BR)</td>
-    <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
-    <td valign="center"><a href="README_ua-ua.md"><img src="https://github.com/Andrew1397/Ukraine/blob/main/Flag_of_Ukraine.png" width="16"/> Українська</a></td>
-    <td valign="center"><a href="README_es-cl.md"><img src="https://twemoji.maxcdn.com/v/13.0.0/svg/1f1e8-1f1f1.svg" width="16"/> Español (CL)</td>
+    <td valign="center"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg" width="16"/> English</td>
+    <td valign="center"><a href="README_fr-fr.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/fr.svg" width="16"/> Français</td>
+    <td valign="center"><a href="README_pt-br.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" width="16"/> Português (BR)</td>
+    <td valign="center"><a href="README_ru-ru.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/ru.svg" width="16"/> Русский</a></td>
+    <td valign="center"><a href="README_ua-ua.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/ua.svg" width="16"/> Українська</a></td>
+    <td valign="center"><a href="README_es-cl.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/es.svg" width="16"/> Español</td>
       
   </tr>
 </table>
@@ -24,9 +25,13 @@
 <div align="center">
 <table>
   <tr>
-    <td valign="center"><a href="README_id-id.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-indonesia_1f1ee-1f1e9.png" width="16"/> Indonesia</td>
-    <td valign="center"><a href="README_zh-cn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-china_1f1e8-1f1f3.png" width="16"/> 简中</a></td> 
-    <td valign="center"><a href="README_vi-vn.md"><img src="https://em-content.zobj.net/thumbs/120/twitter/351/flag-vietnam_1f1fb-1f1f3.png" width="16"/> Tiếng Việt </a></td>
+    <td valign="center"><a href="README_id-id.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/id.svg" width="16"/> Indonesia</td>
+    <td valign="center"><a href="README_zh-cn.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/cn.svg" width="16"/> 简中</a></td> 
+    <td valign="center"><a href="README_vi-vn.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/vn.svg" width="16"/> Tiếng Việt </a></td>
+    <td valign="center"><a href="README_tr-tr.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/tr.svg" width="16"/> Türkçe </a></td>
+    <td valign="center"><a href="README_de-de.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/de.svg" width="16"/> Deutsch</td>
+    <td valign="center"><a href="README_it-it.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/it.svg" width="16"/> Italy</a></td>
+    <td valign="center"><a href="README_ko-kr.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/kr.svg" width="16"/> 한국어</td>
   </tr>
 </table>
 </div>
@@ -34,7 +39,7 @@
 ---
 <div align="center">
   
-# 🔥FAQ KOREPI 🔥
+# 🔥 PERGUNTAS FREQUENTES KOREPI 🔥
 
 </div>
 
@@ -42,10 +47,10 @@
 
 - [KOREPI](https://github.com/Korepi/Korepi) é uma certo trapaça gratuita de jogo de anime que inclui vários recursos de modificação de memória para aprimorar sua experiência de jogo.
 
-## 2 - Qual a diferença entre fãs e patrocinadores?
+## 2 - Qual a diferença entre fãs (fans) e patrocinadores (sponsors)?
 
-- Fãs são usuários que têm permissão para usar o bot Micah.
-- Os patrocinadores têm acesso a canais de comunicação adicionais e recursos extras de modificação de memória (como caminhar na água).
+- Fãs (Fans) são usuários que têm permissão para usar o bot Micah.
+- Os patrocinadores (sponsors) têm acesso a canais de comunicação adicionais e recursos extras de modificação de memória (como caminhar na água).
 
 ## 3 - Onde está o github do [KOREPI](https://github.com/Korepi/Korepi)?
 
@@ -82,11 +87,18 @@
 
 Por favor, escolha de acordo com suas necessidades.
 
+## 10 - Por que não posso usar o Korepi na nova versão do jogo?
+
+- Obviamente, o cheat precisa ser atualizado para ser usado na nova versão do jogo de anime.
+- A atualização levará cerca de **1 a 2 semanas**, dependendo da complexidade dessa versão.
+
+## 11 - Se eu já tiver a função de fã, preciso continuar entrando todos os dias para mantê-la?
+
+- Não, porque foi uma ação única quando você entrou no servidor! **Você pode manter os fãs para sempre**
 ---
 
 ## ⚠ Isenção de responsabilidade
 
 - Use por sua conta e risco.
 - **Não espalhe informações sobre você usando algum software de terceiros**, e você ficará bem. Voce foi avisado.
-
-- Perguntas frequentes traduzidas para o pt-br por [sabala](https://bio.site/sabala). Se você tiver dúvidas ou sugestões - escreva nos canais de suporte no servidor Discord.
+- Perguntas frequentes traduzidas para o pt-br por [Sabala](https://discord.com/users/251584957099540481). Se você tiver dúvidas ou sugestões - escreva nos canais de suporte no servidor Korepi no Discord.
