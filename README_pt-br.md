@@ -12,9 +12,9 @@
 <div align="center">
 <table>
   <tr>
-    <td valign="center"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg" width="16"/> English</td>
+    <td valign="center"><a href="README.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg" width="16"/> English</td>
     <td valign="center"><a href="README_fr-fr.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/fr.svg" width="16"/> Français</td>
-    <td valign="center"><a href="README_pt-br.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" width="16"/> Português (BR)</td>
+    <td valign="center"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" width="16"/> Português (BR)</td>
     <td valign="center"><a href="README_ru-ru.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/ru.svg" width="16"/> Русский</a></td>
     <td valign="center"><a href="README_ua-ua.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/ua.svg" width="16"/> Українська</a></td>
     <td valign="center"><a href="README_es-cl.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/es.svg" width="16"/> Español</td>
