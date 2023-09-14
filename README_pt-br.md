@@ -92,9 +92,9 @@ Por favor, escolha de acordo com suas necessidades.
 - Obviamente, o cheat precisa ser atualizado para ser usado na nova versão do jogo de anime.
 - A atualização levará cerca de **1 a 2 semanas**, dependendo da complexidade dessa versão.
 
-## 11 - Se eu já tiver a função de fã, preciso continuar entrando todos os dias para mantê-la?
+## 11 - Se eu já tiver a função de fã (fans), preciso continuar entrando todos os dias para mantê-la?
 
-- Não, porque foi uma ação única quando você entrou no servidor! **Você pode manter os fãs para sempre**
+- Não, porque foi uma ação única quando você entrou no servidor! **Você pode manter os fãs (fans) para sempre**
 ---
 
 ## ⚠ Isenção de responsabilidade
