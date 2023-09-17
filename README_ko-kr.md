@@ -1,18 +1,18 @@
 <p align="center">
   <a href="#"><img width="360" height="360" src="https://media.discordapp.net/attachments/1033549666769449002/1107009612210765955/matches.png"></a>
-  <a href="#"><img width="650" height="100" src="https://share.creavite.co/FBkHy3zbN4CgWCr0.gif"></a>
+  <a href="#"><img width="650" height="213" src="https://media.discordapp.net/attachments/1126893908597669989/1147375262980382790/image.png"></a>
 </p>
 
 <p align="center">
 	<a href="https://github.com/Korepi/keyauth-cpp-library/releases"><img src="https://img.shields.io/github/downloads/Korepi/keyauth-cpp-library/total.svg?style=for-the-badge&color=darkcyan"></a>
 	<a href="https://github.com/Korepi/Korepi/graphs/contributors"><img src="https://img.shields.io/github/contributors/Korepi/Korepi?style=for-the-badge&color=darkcyan"></a>
-	<a href="https://discord.gg/cottonbuds"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
+	<a href="https://discord.gg/korek"><img src="https://img.shields.io/discord/440536354544156683?label=Discord&logo=discord&style=for-the-badge&color=darkviolet"></a>
 </p>
 
 <div align="center">
 <table>
   <tr>
-    <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
+    <td valign="center"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</td>
     <td valign="center"><a href="README_fr-fr.md"><img src="https://em-content.zobj.net/thumbs/160/twitter/154/flag-for-france_1f1eb-1f1f7.png" width="16"/> Français</td>
     <td valign="center"><a href="README_pt-br.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e7-1f1f7.svg" width="16"/> Português (BR)</td>
     <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
@@ -31,7 +31,7 @@
     <td valign="center"><a href="README_tr-tr.md"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/tr.svg" width="16"/> Türkçe </a></td>
     <td valign="center"><a href="README_de-de.md"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f1e9-1f1ea.svg" width="16"/> Deutsch</td>
     <td valign="center"><a href="README_it-it.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1ee-1f1f9.svg" width="16"/> Italy</a></td>
-    <td valign="center"><img src="https://em-content.zobj.net/source/twitter/53/flag-for-south-korea_1f1f0-1f1f7.png" width="16"/> 한국어</td>
+    <td valign="center"><a href="README_ko-kr.md"><img src="https://em-content.zobj.net/source/twitter/53/flag-for-south-korea_1f1f0-1f1f7.png" width="16"/> 한국어</td>
   </tr>
 </table>
 </div>
@@ -54,11 +54,11 @@
 
 ## 3 - [KOREPI](https://github.com/Korepi/Korepi)의 깃허브는 어디에 있나요?
 
-- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial)는 Korepi 조직에서 소유하고 있는 튜토리얼 레포지토리입니다.
+- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial)은 Korepi 조직에서 소유하고 있는 튜토리얼 레포지토리입니다.
 
 ## 4 - 어디에서 당신들에게 기부할 수 있나요?
 
-- 기부 주소는 ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205)에서 확인 가능합니다. ([Cotton Buds](https://discord.gg/cottonbuds) 디스코드 서버).
+- 기부 주소는 ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205)에서 확인 가능합니다. ([Cotton Buds](https://discord.gg/cottonbuds) 디스코드).
 
 ## 5 - 이미 다운로드 하였는데 어떻게 사용하나요?
 
@@ -70,7 +70,7 @@
 
 ## 7 - 알수없는 문자가 표시되는 이유는 뭔가요?
 
-- 당신의 컴퓨터에 중국어 글꼴이 없으면 알수없는 문자가 출력될 수 있습니다. 이 문제를 해결하려면 Microsoft YaHei 폰트를 다운로드하세요.
+- 컴퓨터에 중국어 글꼴이 없으면 알 수 없는 문자가 출력될 수 있습니다. 이 문제를 해결하려면 Microsoft YaHei 폰트를 다운로드하세요.
 
 ## 8 - 온라인 인증과 로컬 인증의 차이점은 뭔가요?
 
@@ -87,8 +87,8 @@
 
 ## 10 - 새 버전의 게임에서 Korepi를 사용할 수 없는 이유는 뭔가요?
 
-- 분명히, 그 애니메이션 게임의 새로운 버전에서 사용하려면 치트가 업데이트되어야 합니다.
-- 해당 버전의 복잡성에 따라 업데이트하는 데 **1-2주** 정도 소요됩니다.
+- 그 애니메이션 게임의 새로운 버전에서 사용하려면 치트가 업데이트되어야 합니다.
+- 해당 버전의 복잡성에 따라 업데이트에 **1-2주** 정도 소요됩니다.
 ---
 
 ## 11 - 이미 팬 역할을 받았다면 매일 로그인해야 유지할 수 있나요?
@@ -98,5 +98,5 @@
 
 ## ⚠ 중요한 정보
 
-- 정지에 대한 책임은 당신에게 있습니다.
-- **치트를 사용한다는 사실과 어떤 치트를 사용하는지에 대한 정보를 모든 곳에 퍼뜨리지 마십시오.e**,
+- 정지를 당하더라도 그에 대한 책임은 당신에게 있습니다.
+- **치트를 사용한다는 사실과 이 치트에 대한 정보를 모든 곳에 퍼뜨리지 마십시오.**, 치트를 사용하고 있음을 알 수 있는 스크린샷이나 UID를 공개하지 않는 것이 좋습니다.
