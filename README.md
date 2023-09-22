@@ -94,6 +94,16 @@ Please choose according to your needs.
 ## 11 - If I got fans role already, do I have to keep sign in everyday to keep it?
 
 - No, because it was one-time action when you joined the server! **You can keep Fans forever**
+
+## 12 - If my key expired, what should I do?
+
+- Simply, just /getkey again at ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
+
+## 13 - How can I reset my key when it got already used?
+
+- Enter to this [website](https://keyauth.cc/panel/Strigger/Korepi). But you only have one chance! **(Sponsor can reset it three times a week!)**
+
+<a href="#"><img width="913" height="673" src="https://media.discordapp.net/attachments/1105689707058307142/1147112629798703165/image.png"></a>
 ---
 
 ## ⚠ Disclaimer
