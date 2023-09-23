@@ -56,9 +56,9 @@
 
 - [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial)은 Korepi 조직에서 소유하고 있는 튜토리얼 레포지토리입니다.
 
-## 4 - 어디에서 당신들에게 기부할 수 있나요?
+## 4 - 어디서 후원할 수 있나요?
 
-- 기부 주소는 ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205)에서 확인 가능합니다. ([Cotton Buds](https://discord.gg/cottonbuds) 디스코드).
+- 후원 주소는 ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205)에서 확인 가능합니다. ([Cotton Buds](https://discord.gg/cottonbuds) 디스코드)
 
 ## 5 - 이미 다운로드 하였는데 어떻게 사용하나요?
 
@@ -82,7 +82,7 @@
 - 일치하는 버전을 선택하려면 다음을 확인합니다.
 
    + P 시리즈: 코드 업데이트가 한 번만 있는 공용 시리즈이며 추가 유지보수는 없습니다.
-   + F 시리즈: [Strigger7](https://github.com/Strigger7)이 관리하는 온라인 인증 버전으로, Micah 봇을 사용하여 네트워크 서버를 통해 검증합니다. 일부 지역에서는 액세스가 제한되지만 간편합니다.
+   + F 시리즈: [Strigger7](https://github.com/Strigger7)이 관리하는 온라인 인증 버전으로, Micah 봇을 사용하여 네트워크 서버를 통해 인증합니다. 일부 지역에서는 액세스가 제한되지만 간편합니다.
    + V 시리즈: [Micah](https://github.com/Micah123321)가 관리하는 로컬 인증 버전으로, Micah 봇을 사용하여 로컬 인증을 하며 안티치트 방지 기능을 향상합니다. 필요에 따라 선택하세요.
 
 ## 10 - 새 버전의 게임에서 Korepi를 사용할 수 없는 이유는 뭔가요?
@@ -93,7 +93,17 @@
 
 ## 11 - 이미 팬 역할을 받았다면 매일 로그인해야 유지할 수 있나요?
 
-- 아니요, 서버 가입 시에만 필요합니다. **영원히 Fans 역할을 유지할 수 있습니다**
+- 아니요, 서버 가입 시에만 필요합니다. **영원히 Fans 역할을 유지할 수 있습니다.**
+
+## 12 - 키가 만료되면 어떻게 해야 되나요?
+
+- 간단합니다. 그냥 ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658)에서 /getkey를 다시 사용하면 됩니다.
+
+## 13 - 이미 사용한 키를 어떻게 재설정할 수 있나요?
+
+- [웹사이트](https://keyauth.cc/panel/Strigger/Korepi)에 들어가세요. 하지만 기회는 단 한 번뿐입니다. **(Sponsers는 일주일에 세 번 재설정할 수 있습니다!)**
+
+<a href="#"><img width="913" height="673" src="https://media.discordapp.net/attachments/1105689707058307142/1147112629798703165/image.png"></a>
 ---
 
 ## ⚠ 중요한 정보
