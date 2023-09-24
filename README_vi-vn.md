@@ -72,7 +72,7 @@
 
 - Chữ bị lỗi, cắt xén có thể là do máy tính của bạn đang thiếu font tiếng Trung. Để giải quyết vấn đề này, bạn có thể tải xuống các font tiếng Trung, chẳng hạn như font Microsoft YaHei.
 
-## 8 - Sự khác biệt giữa xác minh trực tuyến và xác minh cục bộ (local) là gì?
+## 8 - Sự khác biệt giữa xác minh trực tuyến (F version) và xác minh local (V version) là gì?
 
 - Xác minh trực tuyến dùng phương pháp truy cập vào máy chủ xác minh để xác thực.
 - Để biết hướng dẫn về xác minh cục bộ, vui lòng tham khảo tại [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
