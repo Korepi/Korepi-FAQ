@@ -96,6 +96,15 @@ Vui lòng chọn phiên bản theo đúng nhu cầu của bạn.
 
 - Không cần, vì hoạt động điểm danh chỉ xuất hiện khi bạn vừa tham gia discord. Sau khi nhận được role Fans, bạn có thể giữ nó mãi mãi.
 
+## 12 - Nếu key của tôi hết hạn, thì tôi phải làm gì?
+
+- /getkey lại ở kênh ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658).
+
+## 13 - Làm sao để reset key khi key đã được sử dụng?
+
+- Vào [website](https://keyauth.cc/panel/Strigger/Korepi) này. Nhưng bạn chỉ được reset 1 lần duy nhất **(Sponsor sẽ được reset 3 lần 1 tuần)**
+
+<a href="#"><img width="913" height="673" src="https://media.discordapp.net/attachments/1105689707058307142/1147112629798703165/image.png"></a>
 ---
 
 ## ⚠ Miễn trừ trách nhiệm!
