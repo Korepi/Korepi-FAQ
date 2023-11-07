@@ -105,6 +105,12 @@ Please choose according to your needs.
 - Enter to this [website](https://keyauth.cc/panel/Strigger/Korepi). But you only have one chance! **(Sponsor can reset it three times a week!)**
 
 <a href="#"><img width="913" height="673" src="https://media.discordapp.net/attachments/1105689707058307142/1147112629798703165/image.png"></a>
+
+## 14 - I can't join discord, why?
+
+- Due to many bad people try to join with a bunch of alts then get Fans role and sell it. We have to close it for that reason.
+- When? Probably randomly time in future, so don't expect that we open earlier.
+
 ---
 
 ## ⚠ Disclaimer
