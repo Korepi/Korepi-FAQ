@@ -107,6 +107,11 @@ Vui lòng chọn phiên bản theo đúng nhu cầu của bạn.
 <a href="#"><img width="913" height="673" src="https://media.discordapp.net/attachments/1105689707058307142/1147112629798703165/image.png"></a>
 ---
 
+## 14 - Tôi không thể tham gia server discord, tại sao?
+
+- Do có nhiều người xấu đang cố gắng tham gia với nhiều người khác sau đó nhận role 'Fan' rồi bán nó
+- Khi nào có thể vào được server? Có lẽ là ở 1 thời gian ngẫu nhiên nào đó trong tương lai vì vậy đừng mong đợi chúng tôi sẽ mở sớm hơn so với dự kiến của bạn
+
 ## ⚠ Miễn trừ trách nhiệm!
 
 - Sử dụng hay không thì tùy bạn.
