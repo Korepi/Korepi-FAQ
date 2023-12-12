@@ -17,7 +17,8 @@
     <td valign="center"><a href="README_pt-br.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1e7-1f1f7.svg" width="16"/> Português (BR)</td>
     <td valign="center"><a href="README_ru-ru.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1f7-1f1fa.svg" width="16"/> Русский</a></td>
     <td valign="center"><a href="README_ua-ua.md"><img src="https://github.com/Andrew1397/Ukraine/blob/main/Flag_of_Ukraine.png" width="16"/> Українська</a></td>
-    <td valign="center"><a href="README_es-cl.md"><img src="https://twemoji.maxcdn.com/v/13.0.0/svg/1f1e8-1f1f1.svg" width="16"/> Español (CL)</td>
+    <td valign="center"><a href="README_es-cl.md"><img src="https://twemoji.maxcdn.com/v/13.0.0/svg/1f1e6-1f1f7.svg" width="16"/> Español</td>
+    <td valign="center"><a href="README_jp-ja.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1ef-1f1f5.svg" width="16"/> 日本語</td>
       
   </tr>
 </table>
@@ -64,9 +65,9 @@
 
 - Silahkan mengunjungi [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) untuk instruksi lebih lanjut.
 
-## 6 - Bagaimana cara saya mendapatkan atau mengatur ulang kunci verifikasi?
+## 6 - Bagaimana cara saya mendapatkan atau mengatur ulang lisensi?
 
-- Untuk mendapatkan kunci verifikasi online, ketikkan `/getkey` di channel ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). Untuk mengatur ulang kunci verifikasi, ketikkan `/resetkey` (ini akan mengurangi validitas kunci sebanyak 1 hari dan dapat memicu periode cooldown).
+- Untuk mendapatkan lisensi online, tekan tombol `F:Get Key` di channel ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). Untuk mengatur ulang lisensi, tekan tombol `F:Reset Key` (ini akan mengurangi validitas kunci sebanyak 1 hari dan dapat memicu periode cooldown).
 
 ## 7 - Mengapa saya melihat font yang terlihat rusak atau tidak dapat dibaca?
 
@@ -87,8 +88,27 @@
 
 ## 10 - Mengapa saya tidak bisa menggunakan Korepi di gim dengan versi terbaru?
 
-- Sudah jelas, karena cheat harus diperbarui untuk dapat digunakan pada versi terbaru dari gim anime tersebut.
+- Karena cheat harus diperbarui untuk dapat digunakan pada versi terbaru dari gim anime tersebut.
 - Ini akan membutuhkan waktu sekitar **1-2 minggu** untuk memperbarui cheatnya tergantung pada kerumitan versi gim tersebut.
+
+## 11 - Jika saya sudah mendapatkan role Fans, apakah saya perlu sign-in setiap hari untuk tetap mendapatkannya?
+
+- Tidak, karena aksi sign-in itu hanya sekali saat kamu bergabung ke server! **Kamu mendapatkan rolenya untuk selamanya**
+
+## 12 - Jika lisensiku habis, apa yang harus dilakukan?
+
+- Tenang, cukup tekan tombol `F:Get Key` lagi di channel [#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658)
+
+## 13 - Bagaimana saya dapat mengatur ulang lisensi ketika sudah digunakan?
+
+- Masuk ke [situs ini](https://keyauth.cc/panel/Strigger/Korepi). Tapi, kamu hanya dapat satu kesempatan! **(Sponsor dapat mengatur ulang tiga kali dalam seminggu!)**
+
+![](https://media.discordapp.net/attachments/1105689707058307142/1147112629798703165/image.png)
+
+## 14 - Kenapa saya tidak dapat bergabung ke server discord?
+
+- Karena terlalu banyak orang jahat yang mencoba bergabung dengan banyak akun alt, kemudian mendapatkan role Fans dan menjualnya. Kami harus menutup servernya karena alasan tersebut.
+- Kapan? Mungkin waktunya acak di masa mendatang, jadi jangan berharap kami membukanya lebih cepat.
 
 ---
 
