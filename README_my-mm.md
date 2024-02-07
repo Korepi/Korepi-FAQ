@@ -39,38 +39,38 @@
 ---
 <div align="center">
   
-# 🔥 မေးလေ့မေးထရှိသော မေးခွန်းများ 🔥
+# 🔥 Korepi အတွက်မေလေ့မေးထရှိသော မေးခွန်းများ🔥
 
 </div>
 
-## 1 - WHAT IS [KOREPI](https://github.com/Korepi/Korepi)?
+## 1 - [KOREPI](https://github.com/Korepi/Korepi) ဆိုတာဘာလဲ?
 
-- [KOREPI](https://github.com/Korepi/Korepi) KOREPI သည် သင့်ဂိမ်းကစားခြင်းကို ပိုမိုကောင်းမွန်စေရန်အတွက် အမျိုးမျိုးသော memoryများကို ပြုပြင်မွမ်းမံထားသည့် anime game အတွက် ဟက်ခ်တစ်ခုဖြစ်သည်။
+- [KOREPI](https://github.com/Korepi/Korepi) သည် အခမဲ့ GENSHIN ဟက်ခ်တစ်ခုဖြစ်သည်။ (ဒါပေမယ့် လှူဒါန်းခြင်းဖြင့် ထောက်ပံ့နိုင်ပါတယ်)
 
-## 2 - What is the difference between fans and sponsors?
+## 2 - ပရိသတ်များနှင့် စပွန်ဆာများကြား ကွာခြားချက်မှာ။
 
-- Fans are users who have permission to use the Micah bot.
-- Sponsors have access to additional communication channels and extra memory modification features (such as water walking).
+- Fans များသည် Micah bot ကို အသုံးပြုရန် ခွင့်ပြုချက်ရထားသော users များဖြစ်သည်။
+- စပွန်ဆာများသည် text channels များနှင့် အပိုဟက်ခ်များကို အသုံးပြုခွင့်ရှိသည်။
 
-## 3 - Where is [KOREPI](https://github.com/Korepi/Korepi)'s GitHub?
+## 3 - [KOREPI](https://github.com/Korepi/Korepi) ၏ GitHub ဘယ်မှာလဲ?
 
-- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) is a tutorial repository owned by the korepi organization.
+- [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) သည် korepi အဖွဲ့အစည်းမှ ပိုင်ဆိုင်သော ကျူတိုရီရယ် repository ဖြစ်သည်။
 
-## 4 - Where can I donate to you guys?
+## 4 - ဘယ်မှာလှူလို့ရမလဲ?
 
-- The donation address can be found at ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (in [Cotton Buds](https://discord.gg/cottonbuds) discord server).
+- လှူဒါန်းမှုလိပ်စာကို ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) ( [Cotton Buds](https://discord.gg/cottonbuds) discord server) တွင် တွေ့နိုင်ပါသည်။
 
-## 5 - How do I use when downloaded already?
+## 5 - ဒေါင်းလုဒ်လုပ်ပြီးတဲ့အခါ ဘယ်လိုသုံးမလဲ?
 
-- Please refer to [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) for instructions.
+- ညွှန်ကြားချက်များအတွက် [KOREPI-TUTORIAL](https://github.com/Korepi/Korepi-Tutorial) ကို သွားပါ။
 
-## 6 - How do I obtain or reset a key?
+## 6 - key ကို ဘယ်လိုယူရမလဲ?
 
-- To obtain an online verification key, enter `/getkey` in ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658). To reset a key, enter `/resetkey` (this will reduce the key's validity by 1 day and may trigger a cooldown period).
+- အတည်ပြုကီးတစ်ခုရယူရန် ⁠[#micah-bot-verify](https://discord.com/channels/1069057220802781265/1109781322005741658) တွင် `/getkey` ကိုရိုက်ထည့်ပါ။ key ကို ပြန်လည်သတ်မှတ်ရန် `/resetkey` ကိုရိုက်ထည့်ပါ (၎င်းသည် key ၏တရားဝင်မှုကို 1 ရက်အတွင်း ပြောင်းလဲနိုင်ပြီး cooldown ကာလကို အစပျိုးနိုင်သည်)။
 
-## 7 - Why am I seeing garbled characters?
+## 7 - ဘာကြောင့် ဗလုံးဗထွေး စာသားတွေကို မြင်နေရတာလဲ။?
 
-- Garbled characters may be caused by your computer system lacking Chinese fonts. To resolve this, you can download Chinese fonts online, such as Microsoft YaHei.
+- သင့်ကွန်ပြူတာတွင် တရုတ်ဖောင့်များ မပါရှိခြင်းကြောင့် လုံးထွေးနေသော စာသားများ ဖြစ်နိုင်သည်။ ၎င်းကိုဖြေရှင်းရန်၊ Microsoft YaHei ကဲ့သို့သော တရုတ်ဖောင့်များကို အွန်လိုင်းတွင် ဒေါင်းလုဒ်လုပ်နိုင်ပါသည်။
 
 ## 8 - What is the difference between online verification and local verification?
 
